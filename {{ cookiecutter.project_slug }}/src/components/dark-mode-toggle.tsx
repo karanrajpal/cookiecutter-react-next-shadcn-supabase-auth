@@ -7,7 +7,7 @@ import { useTheme } from "next-themes";
 import { Button } from "@/components/ui/button";
 
 export function DarkModeToggle() {
-    const { setTheme } = useTheme()
+    const { setTheme } = useTheme();
 
     return (
         <Button variant="outline" size="icon">

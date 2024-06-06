@@ -5,9 +5,9 @@ It comes with React, Nextjs, Typescript, Tailwind CSS and ShadCN UI with one com
 
 ## Usage
 To get started, make sure [cookiecutter is installed](https://cookiecutter.readthedocs.io/en/latest/installation.html#install-cookiecutter) on your system.
-The simplest would be `brew install cookiecutter`
+To install, you can `brew install cookiecutter`
 
-Run the following command and then follow the prompts
+After that, run the following command and then follow the prompts
 
 `cookiecutter https://github.com/karanrajpal/cookiecutter-react-next-shadcn`
 
