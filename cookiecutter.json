@@ -1,5 +1,6 @@
 {
-    "project_name": "React Next Supabase Tailwind Shadcn",
+    "project_name": "React Next Tailwind Shadcn",
+    "project_description": "An app to list amazing things",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "author": "Karan Rajpal"
 }
