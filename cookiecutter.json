@@ -2,7 +2,7 @@
     "project_name": "React Next Tailwind Shadcn",
     "project_description": "An app to list amazing things",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-    "supabase_project_url": "what",
-    "supabase_api_key": "no",
+    "supabase_project_url": "",
+    "supabase_api_key": "",
     "author": "Karan Rajpal"
 }
