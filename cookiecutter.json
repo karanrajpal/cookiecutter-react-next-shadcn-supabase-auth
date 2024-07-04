@@ -1,6 +1,6 @@
 {
-    "project_name": "React Next Tailwind Shadcn",
-    "project_description": "An app to list amazing things",
+    "project_name": "React Next Tailwind Shadcn Supabase",
+    "project_description": "An app with Auth",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "supabase_project_url": "",
     "supabase_api_key": "",

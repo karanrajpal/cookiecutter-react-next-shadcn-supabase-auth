@@ -27,12 +27,16 @@ See [this link](https://ui.shadcn.com/docs/components/input) for how to add an `
 
 ## Learn More
 
+### Next.js
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+### Supabase Auth with Next.js
+Check out [this guide](https://supabase.com/docs/guides/auth/server-side/nextjs?queryGroups=router&router=app)
 
 ## Deploy
 Remember to setup your env variables on whatever platform you use to deploy. The env variables used by this codebase are in `.env.local`
